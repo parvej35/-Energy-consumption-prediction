@@ -9,3 +9,5 @@ During the internship period, I processed & analyzed the production data using t
 I also have developed a Machine Learning model to predict future energy (Electricity and Steam) consumption amounts. So far the model can predict up to 95% accurately.
 
 #### Skills: Python (Programming Language) | Django | MySQL | Machine Learning | API 
+
+![GitHub Logo](/images/github-logo.png)
